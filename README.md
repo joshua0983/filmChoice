@@ -1,3 +1,4 @@
 # filmChoice
 
-This program is designed to help one choose between shows he/she has already seen before and wanted to sort them in preference. 
+
+This program has been specifically designed to assist individuals in making informed choices among shows they've previously watched and have a strong desire to sort based on their preferences. It addresses the common dilemma of deciding which show to rewatch or prioritize when you've enjoyed multiple titles over time. By providing a user-friendly platform for this purpose, the program enhances the viewing experience by allowing users to curate their own personalized watchlist. Users can rank and organize these shows according to their preferences, ensuring that they can easily access and enjoy their favorite content while keeping track of the ones they've seen before. Whether it's a beloved classic or a hidden gem, this tool empowers users to create a tailored viewing schedule that aligns perfectly with their entertainment preferences.
